@@ -3,6 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:1e293b,100:3b82f6&height=240&section=header&text=Nithish%20Marneni&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20AWS%20Cloud%20Architect%20%C2%B7%20Data%20Intelligence&descAlignY=58&descSize=18)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=fff)](https://nithishmarneni.github.io)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-d4ff3a?style=for-the-badge&logo=readthedocs&logoColor=0a0b0d&labelColor=0a0b0d)](https://nithishmarneni.github.io/assets/files/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marneninithish51@gmail.com)
 [![Location](https://img.shields.io/badge/Los%20Angeles%2C%20CA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -134,6 +135,7 @@ RAG-based LLM assistant (**AWS Bedrock + OpenSearch**) for internal compliance t
 - 📧 **marneninithish51@gmail.com**
 - 🔗 [linkedin.com/in/nithish-marneni-it-analyst](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
 - 🌐 [nithishmarneni.github.io](https://nithishmarneni.github.io)
+- 📄 [Résumé (PDF)](https://nithishmarneni.github.io/assets/files/Resume.pdf)
 - 📞 +1 (409) 549-8033
 
 <div align="center">
