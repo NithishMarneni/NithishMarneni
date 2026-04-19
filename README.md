@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=240&section=header&text=Nithish%20Marneni&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20NLP%20Engineer%20%C2%B7%20LLM%20%2B%20RAG%20%C2%B7%20FastAPI%20%2B%20AWS&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:1e293b,100:3b82f6&height=240&section=header&text=Nithish%20Marneni&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20AWS%20Cloud%20Architect%20%C2%B7%20Data%20Intelligence&descAlignY=58&descSize=18)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=fff)](https://nithishmarneni.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
@@ -13,37 +13,24 @@
 
 ## 👋 About
 
-AI/NLP Engineer with industry and research experience building and deploying ML-driven language solutions. Strong foundation in **Python backend development, microservices, and cloud-native systems**, with hands-on exposure to **LLM tooling, evaluation practices, and secure API design**.
+Results-driven **AI/ML Engineer** with 3+ years across FinTech and enterprise consulting, currently driving intelligent automation and fraud-detection ML systems at **PayPal**. Expert in end-to-end ML lifecycle management — feature engineering → production deployment on **AWS** — with a proven record of converting data complexity into measurable business outcomes.
 
-> **AWS Certified Machine Learning Engineer – Associate**
-
-Currently shipping production NLP services at **Doublene**. Previously Research Assistant at **Lamar University** and Software Developer at **Techecy**.
+I combine deep **MLOps** expertise with strategic **cloud architecture** to deliver models that save millions, reduce latency, and scale globally.
 
 ---
 
-## 🧰 What I work with
-
-| Area | Tools |
-|------|-------|
-| **LLM / RAG** | RAG, Embeddings, Vector Search, Metadata Filtering, Reranking, Prompt Engineering, Context Management |
-| **Frameworks** | LangChain · LangGraph · LlamaIndex · Hugging Face · Transformers |
-| **Evaluation** | Offline eval datasets · RAG evaluation (faithfulness / relevance) |
-| **Backend** | Python · FastAPI · REST APIs · Microservices · Async processing |
-| **Data** | SQL · NoSQL concepts · ETL basics |
-| **Cloud / DevOps** | AWS · Docker · CI/CD (GitHub Actions) · Logging & Monitoring |
-| **LLM Security** | Prompt-injection awareness · I/O validation · Access-control concepts |
+## 📊 Impact at a glance
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+| Metric | Scope |
+|:------:|:------|
+| **$18.3M** | fraud losses prevented annually (PayPal) |
+| **94.7%** | precision · real-time fraud model in production |
+| **40K TPS** | sustained inference throughput with <50ms p99 |
+| **78%** | faster ML deployments (3 weeks → 4 days, adopted org-wide) |
+| **$4.2M** | revenue preserved via proactive drift detection |
+| **2.4M / hr** | transaction events processed at 99.98% uptime |
 
 </div>
 
@@ -51,71 +38,94 @@ Currently shipping production NLP services at **Doublene**. Previously Research 
 
 ## 💼 Experience
 
-### NLP Engineer — **Doublene**, USA &nbsp;·&nbsp; `Jan 2025 – Present`
+### PayPal, Inc. — **AI/ML Engineer** &nbsp;·&nbsp; `Jun 2024 – Present` · United States
 
-- Build and ship AI/ML + NLP capabilities for production applications using Python-based services and modern NLP frameworks.
-- Develop Transformer-based NLP workflows (classification, semantic matching, entity/keyword extraction, summarization-style pipelines) with Hugging Face / Transformers.
-- Design and deploy FastAPI endpoints for model inference with clean request/response contracts, async processing patterns, and scalable microservice design.
-- Improve model reliability with offline evaluation datasets, error-analysis loops, and structured testing for model/prompt regressions.
-- Implement robust logging, monitoring, and debugging workflows supporting stable releases and faster incident resolution.
-- Collaborate cross-functionally (product / engineering) to translate requirements into deployable ML features.
+> Leading AI/ML initiatives for PayPal's global fraud-detection and personalization platforms — **$1.5T+** in annual payment volume across **430M+** active accounts.
 
-### Research Assistant — **Lamar University**, Beaumont, TX &nbsp;·&nbsp; `Mar 2024 – Dec 2024`
+- Architected a real-time fraud-detection model on **AWS SageMaker** (XGBoost + LSTM ensemble) — **94.7% precision**, reducing fraudulent losses by **$18.3M annually** within 6 months of launch.
+- Engineered a fully automated **CI/CD MLOps pipeline** (AWS CodePipeline + SageMaker Pipelines + Docker + Kubernetes) cutting deployment cycle from **3 weeks → 4 days** (78% efficiency gain, adopted org-wide).
+- Built a distributed **feature store** on S3 + DynamoDB serving **200+ real-time features with <10ms p99 latency**, lifting model freshness **35%** across 7 production models.
+- Led a transaction anomaly-detection microservice on **AWS Lambda + Kinesis Streams** — **2.4M events/hour** at **99.98% uptime**, eliminating **$2.1M/yr** in manual review costs.
+- Drove adoption of **Generative AI** (AWS Bedrock / Claude API) for intelligent dispute summarization — **−22%** agent handle time, **+14 CSAT** points.
+- Implemented **SageMaker Model Monitor** with custom drift-detection logic, proactively catching 3 major distribution shifts and preserving **$4.2M** in at-risk revenue during a critical Q4.
 
-- Researched microservices and cloud computing, supporting scalable architecture design and performance-oriented development.
-- Built prototypes studying distributed-system behavior — service communication patterns, reliability, throughput, and deployment considerations.
-- Designed fault-tolerant microservice architectures using Docker and orchestration patterns for high availability.
-- Analyzed performance bottlenecks through load testing and profiling, achieving measurable throughput improvements.
-- Developed automated integration-testing frameworks, reducing regression bugs and improving deployment confidence.
-- Produced technical documentation and research deliverables with reproducible experiment setups; presented findings at departmental seminars.
+### Accenture — **Machine Learning Engineer · Associate** &nbsp;·&nbsp; `Jan 2022 – Aug 2023` · India
 
-### Software Developer — **Techecy**, India &nbsp;·&nbsp; `Feb 2022 – Jun 2023`
+> Applied Intelligence practice. AI/ML + cloud solutions for Fortune 500 BFSI and e-commerce clients.
 
-- Developed and maintained backend microservices for a large-scale messaging platform ecosystem.
-- Built and integrated REST services with structured debugging practices, improving service stability in production.
-- Implemented message-queue systems and event-driven architectures to handle high-volume asynchronous workloads.
-- Optimized database queries and implemented caching strategies, reducing API response times by significant margins.
-- Designed CI/CD pipelines using Jenkins and Git workflows, streamlining the release process and reducing deployment errors.
-- Wrote comprehensive unit and integration tests; mentored junior developers on clean code and design patterns.
+- Developed a **customer churn model** (Random Forest + SHAP) for a major Indian bank — **19%** churn reduction, **₹42 Cr ($5M)** Year-1 savings.
+- Designed an **NLP document-classification pipeline** (BERT fine-tuned on SageMaker) processing **50,000+ legal docs/day at 91% accuracy** — eliminating 6 FTEs of manual review.
+- Built AWS ingestion infrastructure (S3/Glue/Lambda) — cut **500 GB nightly ETL** from **14h → 38min (95%)**.
+- Engineered a **recommendation engine** (collaborative filtering + DL embeddings) over an 8M-product catalog — **+27% CTR**, **+9% GMV**.
+- Contributed to a **YOLOv5 CV quality-control system** on Rekognition — **97.3%** defect detection, **$800K** annual recall savings.
 
 ---
 
-## 🚀 Featured project
+## 🚀 Signature projects
 
-### LLM-Powered Knowledge Assistant — RAG + Evaluation + Secure APIs
+### 🏦 Real-Time Fraud Intelligence Platform &nbsp;·&nbsp; *PayPal*
+End-to-end ML system on AWS powering PayPal's primary fraud-scoring engine. Orchestrated **SageMaker + Kinesis + Redis + Aurora PostgreSQL** to sustain **40K TPS with sub-50ms inference**.
 
-An end-to-end retrieval-augmented generation system delivered as a FastAPI service, with an offline evaluation harness for repeatable regression checks.
+### 🧠 GenAI Customer Intelligence Suite &nbsp;·&nbsp; *PayPal*
+RAG-based LLM assistant (**AWS Bedrock + OpenSearch**) for internal compliance teams — cut regulatory-report prep time by **40%** and received exec sponsorship for broader rollout.
 
-- **Pipeline** — document ingestion → chunking → embeddings → vector search → grounded generation with citations.
-- **Retrieval quality** — metadata filtering, reranking, and query refinement to reduce irrelevant context.
-- **Evaluation** — curated test queries scored for *faithfulness* and *relevance*; regression-friendly.
-- **Delivery** — FastAPI service with structured logging, input/output guardrails, and Dockerized deployment.
-- **Cloud-ready** — AWS-aligned architecture with CI/CD-friendly structure and monitoring hooks.
+### 📄 Intelligent Document Processing System &nbsp;·&nbsp; *Accenture × BFSI Client*
+**BERT** multi-class classifier + OCR pipeline on AWS, automating KYC verification for **1.2M customers / month** — **−73%** manual effort; onboarding SLA **61% → 97%**.
 
-```
-query ──▶ retriever (vector + metadata) ──▶ reranker ──▶ LLM  ──▶ answer + citations
-                                                          │
-                                                          ▼
-                                           offline eval: faithfulness · relevance
-```
+---
+
+## 🧰 Technical stack
+
+| | |
+|:--|:--|
+| **Languages** | Python · SQL · PySpark · Bash · Scala (basic) |
+| **ML / DL** | Scikit-learn · TensorFlow · PyTorch · XGBoost · LightGBM · Hugging Face · BERT · LLaMA |
+| **AWS** | SageMaker · Bedrock · Lambda · Kinesis · S3 · Glue · Athena · DynamoDB · EKS · ECR · CloudWatch |
+| **MLOps / DevOps** | MLflow · Kubeflow · Docker · Kubernetes · Terraform · CI/CD (CodePipeline, GitHub Actions) |
+| **Data / Streaming** | Apache Kafka · Spark · Databricks · Snowflake · Airflow · dbt · Redis |
+| **Monitoring** | SageMaker Model Monitor · Evidently AI · Grafana · Prometheus |
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-0073BB?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-1A73E8?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-- **Master of Science, Computer Science** — Lamar University, Beaumont, TX &nbsp;·&nbsp; `Jul 2023 – May 2025`
-- **Bachelor of Technology, Electronics & Communication Engineering** — JNTU, Hyderabad, India &nbsp;·&nbsp; `May 2018 – Jul 2022`
+- **M.S., Computer Science** — Lamar University, Beaumont, TX &nbsp;·&nbsp; `Jul 2023 – May 2025` &nbsp;·&nbsp; **4.0 GPA**
+- **B.Tech., Electronics & Communication Engineering** — JNTUH, Hyderabad, India &nbsp;·&nbsp; `Jul 2018 – Apr 2022`
 
-## 📜 Certification
+## 📜 Certifications
 
-- **AWS Certified Machine Learning Engineer – Associate**
+- 🏅 **AWS Certified Machine Learning – Specialty**
+- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🏅 **AWS Certified Data Analytics – Specialty**
+- 🏅 **Google Professional ML Engineer**
+- 🏅 **Deep Learning Specialization** — Coursera / deeplearning.ai
+- 🏅 **MLOps Specialization** — Coursera / deeplearning.ai
 
-## 🏆 Awards
+## 🏆 Awards & recognition
 
-- 🥇 **Outstanding Graduate Student Award** — Lamar University &nbsp;·&nbsp; `2024 – 2025`
-  <br/>*For exceptional academic performance and research in microservices and cloud computing.*
-- 🥇 **Outstanding Individual Contribution Award** — Techecy &nbsp;·&nbsp; `2022 – 2023`
-  <br/>*For impactful microservice development and improvements to large-scale messaging-platform performance.*
+- 🏆 **Outstanding Graduate Student Award** — Lamar University &nbsp;·&nbsp; `2024 – 2025`
+  <br/>*For exceptional academic performance and research in microservices and cloud computing · perfect 4.0 GPA.*
+- 🏆 **Outstanding Individual Contribution Award** — Accenture &nbsp;·&nbsp; `2022 – 2023`
+  <br/>*High-impact microservice development and measurable improvements to a large-scale messaging platform — a top individual recognition in Applied Intelligence.*
 
 ---
 
@@ -128,7 +138,7 @@ query ──▶ retriever (vector + metadata) ──▶ reranker ──▶ LLM  
 
 <div align="center">
 
-<sub>Thanks for stopping by. Open to senior ML / NLP and applied-scientist roles.</sub>
+<sub>Open to senior ML / MLOps and applied-scientist roles. Happy to consult on fraud, real-time inference, or AWS ML architecture.</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=NithishMarneni&color=3b82f6&style=flat-square)
 
