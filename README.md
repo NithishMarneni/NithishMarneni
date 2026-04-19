@@ -1,310 +1,135 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=280&section=header&text=Nithish%20Marneni&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Leader%20%7C%20NLP%20Architect%20%7C%20Production%20ML%20Systems&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=240&section=header&text=Nithish%20Marneni&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20NLP%20Engineer%20%C2%B7%20LLM%20%2B%20RAG%20%C2%B7%20FastAPI%20%2B%20AWS&descAlignY=58&descSize=18)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nithish-marneni-it-analyst)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishmarneni12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishmarneni)
-[![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
-</div>
-
----
-
-## 🎯 EXECUTIVE SUMMARY
-
-**Strategic AI/ML Engineering Leader** with proven track record of architecting and deploying production-grade machine learning systems that process **1M+ daily API requests** and deliver measurable business value. Specialized in transforming experimental models into scalable, revenue-generating services through strategic technical leadership and cross-functional collaboration.
-
-### 📊 Leadership Impact Dashboard
-
-<div align="center">
-
-| **Metric** | **Achievement** | **Business Impact** |
-|:-----------|:----------------|:--------------------|
-| **Production Scale** | 1M+ Daily API Requests | High-availability messaging infrastructure |
-| **Service Delivery** | 20+ Microservices Deployed | Zero-downtime production releases |
-| **Performance Optimization** | 30% Query Speed Improvement | Enhanced system efficiency & cost reduction |
-| **System Reliability** | 100% CCPA Compliance | Risk mitigation & regulatory adherence |
-| **Team Collaboration** | Cross-functional Leadership | Product, Data & Engineering alignment |
-| **Technology Adoption** | RAG & LLM Integration | Next-gen AI capabilities deployment |
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=fff)](https://nithishmarneni.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marneninithish51@gmail.com)
+[![Location](https://img.shields.io/badge/Los%20Angeles%2C%20CA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-### 💼 Professional Value Proposition
+---
 
-I bridge the gap between cutting-edge AI research and production-ready business solutions. With expertise spanning **NLP engineering, backend architecture, and cloud-native deployments**, I've consistently delivered systems that:
+## 👋 About
 
-- **Scale Efficiently**: Built infrastructure handling millions of transactions with optimal resource utilization
-- **Drive Innovation**: Pioneered RAG pipelines and LLM-powered services for real-time conversational AI
-- **Reduce Costs**: Optimized database performance and automated manual workflows, yielding 30%+ efficiency gains
-- **Ensure Compliance**: Implemented privacy-first architectures with encryption and regulatory compliance
-- **Accelerate Time-to-Market**: Established CI/CD pipelines enabling rapid, reliable deployment cycles
+AI/NLP Engineer with industry and research experience building and deploying ML-driven language solutions. Strong foundation in **Python backend development, microservices, and cloud-native systems**, with hands-on exposure to **LLM tooling, evaluation practices, and secure API design**.
+
+> **AWS Certified Machine Learning Engineer – Associate**
+
+Currently shipping production NLP services at **Doublene**. Previously Research Assistant at **Lamar University** and Software Developer at **Techecy**.
 
 ---
 
-## 🧭 LEADERSHIP PHILOSOPHY
+## 🧰 What I work with
 
-> **"Transform complexity into clarity, experimentation into execution, and technical excellence into business value."**
-
-My approach centers on **strategic technical leadership** that balances innovation with pragmatism:
-
-- **Product-Minded Engineering**: Every technical decision is evaluated through the lens of user impact and business outcomes
-- **Scalability First**: Design systems that grow seamlessly from proof-of-concept to production scale
-- **Knowledge Multiplication**: Document architectural decisions and mentor teams to build sustainable engineering cultures
-- **Bias for Action**: Move rapidly from research to deployment while maintaining quality and reliability standards
-- **Cross-Functional Collaboration**: Partner closely with product managers, data scientists, and stakeholders to align technical strategy with business objectives
-
----
-
-## 📈 STRATEGIC IMPACT ARCHITECTURE
-
-```mermaid
-graph TB
-    A[Strategic Vision] --> B[AI/ML Innovation]
-    A --> C[Scalable Architecture]
-    
-    B --> D[NLP & LLM Systems]
-    B --> E[RAG Pipelines]
-    
-    C --> F[Microservices Design]
-    C --> G[Cloud Infrastructure]
-    
-    D --> H[Production Deployment]
-    E --> H
-    F --> H
-    G --> H
-    
-    H --> I[Business Outcomes]
-    
-    I --> J[1M+ Daily Requests]
-    I --> K[30% Performance Gain]
-    I --> L[Zero Downtime]
-    
-    style A fill:#1e3a8a,stroke:#60a5fa,color:#fff
-    style I fill:#059669,stroke:#10b981,color:#fff
-    style J fill:#4CAF50,stroke:#66BB6A,color:#fff
-    style K fill:#4CAF50,stroke:#66BB6A,color:#fff
-    style L fill:#4CAF50,stroke:#66BB6A,color:#fff
-```
-
----
-
-## 🚀 CAREER PROGRESSION TIMELINE
-
-```mermaid
-timeline
-    title Professional Journey
-    section Foundation
-        2018-2022 : B.Tech ECE
-                  : JNTU Hyderabad
-                  : Engineering fundamentals
-    section Production Excellence
-        2022-2023 : Software Developer
-                  : Techecy India
-                  : 1M+ daily API requests
-                  : 20+ microservices
-    section Advanced Research
-        2023-2024 : Graduate Studies
-                  : Lamar University
-                  : MS Computer Science
-    section Dual Leadership
-        2024 : Research Assistant
-             : ML pipelines and APIs
-             : Azure AKS deployment
-        2025 : NLP Engineer
-             : Doublene USA
-             : RAG and LLM systems
-```
-
----
-
-## 🏆 KEY ACHIEVEMENTS & STRATEGIC INITIATIVES
-
-### 💰 Revenue Impact & Cost Optimization
-
-**Performance Engineering Excellence**
-- **30% Query Performance Improvement**: Architected database optimization strategy using PostgreSQL tuning and DAX-style caching with DynamoDB, directly reducing infrastructure costs and improving user experience
-- **Zero-Downtime Deployments**: Established CI/CD pipelines using Jenkins, Docker, and AWS Lambda enabling continuous delivery without service interruptions
-- **Resource Efficiency**: Containerized 20+ microservices reducing deployment complexity and infrastructure overhead
-
-### 📊 Scale & Production Reliability
-
-**High-Volume System Architecture**
-- **1M+ Daily API Requests**: Designed and maintained messaging infrastructure at Techecy supporting over one million daily transactions with consistent sub-second latency
-- **Real-Time Processing**: Built webhook processors for Facebook, Twitter, and Apple Chat using Python and Kafka, ensuring instant message routing and delivery
-- **100% Compliance Achievement**: Implemented CCPA-compliant data handling with AWS KMS encryption and privacy-first architecture
-
-### 🤖 AI/ML Innovation Leadership
-
-**Next-Generation AI Systems**
-- **RAG Pipeline Development**: Pioneered Retrieval-Augmented Generation systems at Doublene using vector databases, significantly improving answer accuracy for conversational AI applications
-- **LLM Production Deployment**: Engineered prompt engineering frameworks and parameter-efficient fine-tuning techniques for production LLM services
-- **Intent Detection Automation**: Developed Rasa-based conversational flows reducing customer service agent workload through intelligent automation
-
-**NLP Engineering Excellence**
-- **Transformer Model Fine-Tuning**: Engineered PyTorch and HuggingFace-based models for classification, named entity recognition, and intent detection with production-grade accuracy
-- **ML Pipeline Architecture**: Built end-to-end preprocessing and embedding pipelines using spaCy and sentence-transformers supporting real-time search and inference
-
-### 🏗️ Technical Architecture & Infrastructure
-
-**Cloud-Native Solutions**
-- **Multi-Cloud Expertise**: Deployed services across AWS and Azure with automated scaling, monitoring, and alerting using Azure Monitor and Grafana
-- **Kubernetes Orchestration**: Managed containerized deployments on Azure Kubernetes Service (AKS) ensuring high availability and fault tolerance
-- **Microservices Design**: Architected 20+ FastAPI-based REST microservices with async IO, SQLAlchemy ORM, and modular architecture patterns
-
-**DevOps & Quality Assurance**
-- **Automated Testing Frameworks**: Implemented comprehensive PyTest unit tests and Selenium-based regression testing ensuring code quality and compliance
-- **CI/CD Automation**: Built GitHub Actions and Jenkins pipelines automating build, test, and deployment workflows
-- **Observability Excellence**: Integrated ELK stack and Grafana dashboards providing real-time system monitoring and performance insights
-
-### 🎓 Research & Development
-
-**Academic Contributions**
-- **Vendor Intelligence System**: Designed ML-powered invoice classification and anomaly detection pipelines at Lamar University, automating auditing workflows
-- **Document Processing Innovation**: Developed rule-based extraction techniques using spaCy and Pandas for vendor document normalization
-
----
-
-## 💻 TECHNOLOGY LEADERSHIP STACK
+| Area | Tools |
+|------|-------|
+| **LLM / RAG** | RAG, Embeddings, Vector Search, Metadata Filtering, Reranking, Prompt Engineering, Context Management |
+| **Frameworks** | LangChain · LangGraph · LlamaIndex · Hugging Face · Transformers |
+| **Evaluation** | Offline eval datasets · RAG evaluation (faithfulness / relevance) |
+| **Backend** | Python · FastAPI · REST APIs · Microservices · Async processing |
+| **Data** | SQL · NoSQL concepts · ETL basics |
+| **Cloud / DevOps** | AWS · Docker · CI/CD (GitHub Actions) · Logging & Monitoring |
+| **LLM Security** | Prompt-injection awareness · I/O validation · Access-control concepts |
 
 <div align="center">
 
-### Core Engineering Competencies
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Proficient-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### AI/ML Framework Expertise
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Backend & API Architecture
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-### Cloud & DevOps Infrastructure
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Data Processing & NLP
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### Monitoring & Quality Assurance
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-### 🎯 Technical Expertise Breakdown
+---
 
-```mermaid
-mindmap
-  root((Nithish Marneni))
-    AI and ML
-      NLP Engineering
-      LLM Fine Tuning
-      RAG Systems
-      Intent Detection
-      Model Evaluation
-    Backend Architecture
-      FastAPI Services
-      REST APIs
-      Microservices
-      Async IO
-      SQLAlchemy ORM
-    Cloud Infrastructure
-      AWS Lambda
-      Azure AKS
-      Docker
-      Kubernetes
-      API Gateway
-    Data Engineering
-      PostgreSQL
-      DynamoDB
-      Kafka Streams
-      Vector Databases
-      ETL Pipelines
-    DevOps and CI CD
-      Jenkins
-      GitHub Actions
-      Monitoring
-      Testing
-      Automation
+## 💼 Experience
+
+### NLP Engineer — **Doublene**, USA &nbsp;·&nbsp; `Jan 2025 – Present`
+
+- Build and ship AI/ML + NLP capabilities for production applications using Python-based services and modern NLP frameworks.
+- Develop Transformer-based NLP workflows (classification, semantic matching, entity/keyword extraction, summarization-style pipelines) with Hugging Face / Transformers.
+- Design and deploy FastAPI endpoints for model inference with clean request/response contracts, async processing patterns, and scalable microservice design.
+- Improve model reliability with offline evaluation datasets, error-analysis loops, and structured testing for model/prompt regressions.
+- Implement robust logging, monitoring, and debugging workflows supporting stable releases and faster incident resolution.
+- Collaborate cross-functionally (product / engineering) to translate requirements into deployable ML features.
+
+### Research Assistant — **Lamar University**, Beaumont, TX &nbsp;·&nbsp; `Mar 2024 – Dec 2024`
+
+- Researched microservices and cloud computing, supporting scalable architecture design and performance-oriented development.
+- Built prototypes studying distributed-system behavior — service communication patterns, reliability, throughput, and deployment considerations.
+- Designed fault-tolerant microservice architectures using Docker and orchestration patterns for high availability.
+- Analyzed performance bottlenecks through load testing and profiling, achieving measurable throughput improvements.
+- Developed automated integration-testing frameworks, reducing regression bugs and improving deployment confidence.
+- Produced technical documentation and research deliverables with reproducible experiment setups; presented findings at departmental seminars.
+
+### Software Developer — **Techecy**, India &nbsp;·&nbsp; `Feb 2022 – Jun 2023`
+
+- Developed and maintained backend microservices for a large-scale messaging platform ecosystem.
+- Built and integrated REST services with structured debugging practices, improving service stability in production.
+- Implemented message-queue systems and event-driven architectures to handle high-volume asynchronous workloads.
+- Optimized database queries and implemented caching strategies, reducing API response times by significant margins.
+- Designed CI/CD pipelines using Jenkins and Git workflows, streamlining the release process and reducing deployment errors.
+- Wrote comprehensive unit and integration tests; mentored junior developers on clean code and design patterns.
+
+---
+
+## 🚀 Featured project
+
+### LLM-Powered Knowledge Assistant — RAG + Evaluation + Secure APIs
+
+An end-to-end retrieval-augmented generation system delivered as a FastAPI service, with an offline evaluation harness for repeatable regression checks.
+
+- **Pipeline** — document ingestion → chunking → embeddings → vector search → grounded generation with citations.
+- **Retrieval quality** — metadata filtering, reranking, and query refinement to reduce irrelevant context.
+- **Evaluation** — curated test queries scored for *faithfulness* and *relevance*; regression-friendly.
+- **Delivery** — FastAPI service with structured logging, input/output guardrails, and Dockerized deployment.
+- **Cloud-ready** — AWS-aligned architecture with CI/CD-friendly structure and monitoring hooks.
+
+```
+query ──▶ retriever (vector + metadata) ──▶ reranker ──▶ LLM  ──▶ answer + citations
+                                                          │
+                                                          ▼
+                                           offline eval: faithfulness · relevance
 ```
 
 ---
 
-## 🎯 FEATURED STRATEGIC PROJECTS
+## 🎓 Education
 
-### 🚀 Enterprise-Scale Messaging Infrastructure
-**Techecy | Software Developer | 2022-2023**
+- **Master of Science, Computer Science** — Lamar University, Beaumont, TX &nbsp;·&nbsp; `Jul 2023 – May 2025`
+- **Bachelor of Technology, Electronics & Communication Engineering** — JNTU, Hyderabad, India &nbsp;·&nbsp; `May 2018 – Jul 2022`
 
-**Strategic Objective**: Build scalable, real-time messaging platform supporting multi-channel communication
+## 📜 Certification
 
-**Technical Leadership**:
-- Architected high-throughput messaging services processing **1M+ daily API requests** using Python, FastAPI, and Kafka
-- Designed real-time webhook processing system for Facebook, Twitter, and Apple Chat with sub-second latency
-- Implemented comprehensive monitoring using Grafana and ELK stack ensuring 99.9% uptime
+- **AWS Certified Machine Learning Engineer – Associate**
 
-**Business Impact**:
-- Enabled seamless multi-channel customer engagement at scale
-- Reduced operational costs through automated message routing and intent detection
-- Achieved zero-downtime deployments supporting continuous business operations
+## 🏆 Awards
 
-**Technologies**: Python, FastAPI, Kafka, PostgreSQL, DynamoDB, AWS Lambda, Docker, Jenkins, Grafana, ELK
+- 🥇 **Outstanding Graduate Student Award** — Lamar University &nbsp;·&nbsp; `2024 – 2025`
+  <br/>*For exceptional academic performance and research in microservices and cloud computing.*
+- 🥇 **Outstanding Individual Contribution Award** — Techecy &nbsp;·&nbsp; `2022 – 2023`
+  <br/>*For impactful microservice development and improvements to large-scale messaging-platform performance.*
 
 ---
 
-### 🤖 RAG-Powered Conversational AI Platform
-**Doublene | NLP Engineer | 2025-Present**
+## 📫 Reach me
 
-**Strategic Objective**: Deploy next-generation LLM-powered services for intelligent search and conversational experiences
+- 📧 **marneninithish51@gmail.com**
+- 🔗 [linkedin.com/in/nithish-marneni-it-analyst](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
+- 🌐 [nithishmarneni.github.io](https://nithishmarneni.github.io)
+- 📞 +1 (409) 549-8033
 
-**Technical Leadership**:
-- Engineered production-grade Retrieval-Augmented Generation (RAG) pipelines using vector databases improving answer accuracy by 40%+
-- Fine-tuned transformer models (PyTorch, HuggingFace) for classification, NER, and intent detection achieving state-of-the-art performance
-- Built scalable embedding pipelines using sentence-transformers and spaCy supporting real-time inference
+<div align="center">
 
-**Business Impact**:
-- Delivered AI-powered search capabilities reducing customer query resolution time
-- Enabled conversational features through LLM prompt engineering and parameter-efficient fine-tuning
-- Containerized services with Docker ensuring reliable, scalable deployments
+<sub>Thanks for stopping by. Open to senior ML / NLP and applied-scientist roles.</sub>
 
-**Technologies**: PyTorch, HuggingFace Transformers, FastAPI, spaCy, sentence-transformers, Vector Databases, Docker
+![Profile views](https://komarev.com/ghpvc/?username=NithishMarneni&color=3b82f6&style=flat-square)
 
----
-
-### 📊 Intelligent Vendor Management System
-**Lamar University | Research Assistant | 2024**
-
-**Strategic Objective**: Automate vendor evaluation and billing workflows through ML-powered classification
-
-**Technical Leadership**:
-- Designed microservices architecture using FastAPI and PostgreSQL for vendor and billing data management
-- Developed ML-based invoice classification and anomaly detection pipelines using scikit-learn
-- Deployed services to Azure Kubernetes Service (AKS) with CI/CD automation via GitHub Actions
-
-**Business Impact**:
-- Automated manual auditing processes reducing processing time by 50%+
-- Implemented Azure Monitor alerting ensuring system reliability and performance
-- Established code review practices and Git workflows for team collaboration
-
-**Technologies**: Python, FastAPI, PostgreSQL, scikit-learn, Pandas
+</div>
