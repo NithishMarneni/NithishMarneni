@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=fff)](https://nithishmarneni.github.io)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-d4ff3a?style=for-the-badge&logo=readthedocs&logoColor=0a0b0d&labelColor=0a0b0d)](https://nithishmarneni.github.io/assets/files/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marneninithish51@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marneninithish61@gmail.com)
 [![Location](https://img.shields.io/badge/Los%20Angeles%2C%20CA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -132,7 +132,7 @@ Architected a **6-component** distributed file system (registry, directory, file
 
 ## 📫 Reach me
 
-- 📧 **marneninithish51@gmail.com**
+- 📧 **marneninithish61@gmail.com**
 - 🔗 [linkedin.com/in/nithish-marneni-it-analyst](https://www.linkedin.com/in/nithish-marneni-it-analyst/)
 - 🌐 [nithishmarneni.github.io](https://nithishmarneni.github.io)
 - 📄 [Résumé (PDF)](https://nithishmarneni.github.io/assets/files/Resume.pdf)
