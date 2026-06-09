@@ -1,6 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:1e293b,100:3b82f6&height=240&section=header&text=Nithish%20Marneni&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20Developer%20%C2%B7%20Linux%20Systems%20%C2%B7%20Validation%20%26%20Automation&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:1e293b,100:3b82f6&height=200&section=header&text=Nithish%20Marneni&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Nithish Marneni" />
+
+<a href="https://github.com/NithishMarneni">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Embedded+Software+Developer;Low-Level+Linux+Debugging+%26+Driver+Bring-Up;Python+Automation+%26+Firmware+Validation;Signal+Processing+%C2%B7+DSP+%C2%B7+Systems+Software" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=fff)](https://nithishmarneni.github.io)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-d4ff3a?style=for-the-badge&logo=readthedocs&logoColor=0a0b0d&labelColor=0a0b0d)](https://nithishmarneni.github.io/assets/files/Resume.pdf)
@@ -32,6 +38,21 @@ I hold an **M.S. in Computer Science (4.0 GPA)** and a **B.Tech in Electronics &
 | **50+** | test nodes aggregated in performance pipeline (60% faster analysis) |
 | **35%** | fewer post-release incidents (reliability hardening) |
 | **~15 hrs/wk** | manual engineering effort eliminated via automation |
+
+</div>
+
+---
+
+## 📈 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NithishMarneni&show_icons=true&hide_border=true&bg_color=0a0b0d&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishMarneni&layout=compact&hide_border=true&bg_color=0a0b0d&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishMarneni&hide_border=true&background=0a0b0d&stroke=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
 </div>
 
@@ -121,6 +142,10 @@ Architected a **6-component** distributed file system (registry, directory, file
 
 <sub>Open to embedded software, firmware validation, and Linux systems roles. Happy to talk firmware automation, low-level debugging, or signal-processing pipelines.</sub>
 
-![Profile views](https://komarev.com/ghpvc/?username=NithishMarneni&color=3b82f6&style=flat-square)
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=NithishMarneni&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e293b,100:0a0b0d&height=120&section=footer" width="100%" alt="footer" />
